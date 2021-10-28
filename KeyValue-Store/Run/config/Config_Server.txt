@@ -1,0 +1,3 @@
+PORT=123
+MEMORY=15
+PATH=disk.txt
